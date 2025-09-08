@@ -87,7 +87,7 @@ eg, if User entered college name doesnt exist create a college with following na
 
 
 
-API Endpoints:-
+## API Endpoints:-
 - POST /users: Create a new user.
 
 - POST /users/login: Log in and receive jwt token as Http only cookies.
